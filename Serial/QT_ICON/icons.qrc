@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/iconss">
+        <file>favicon (2).ico</file>
+        <file>favicon (3).ico</file>
+        <file>favicon (4).ico</file>
+        <file>favicon (5).ico</file>
+        <file>favicon.ico</file>
+        <file>favicon (1).ico</file>
+        <file>favicon (6).ico</file>
+        <file>favicon (7).ico</file>
+        <file>favicon (8).ico</file>
+        <file>favicon (9).ico</file>
+        <file>zszaz.png</file>
+        <file>zzsz.png</file>
+        <file>zzz.png</file>
+        <file>zzzz.png</file>
+        <file>tatal.png</file>
+        <file>min.png</file>
+        <file>next.png</file>
+        <file>pause.png</file>
+        <file>play.png</file>
+        <file>prev.png</file>
+        <file>turnoff.png</file>
+    </qresource>
+</RCC>

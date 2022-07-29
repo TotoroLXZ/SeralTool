@@ -1,0 +1,12 @@
+INPUT(
+./release\about_developer.o
+./release\control_properties.o
+./release\main.o
+./release\movebutton.o
+./release\serial_controler.o
+./release\qrc_Serial_qrc.o
+./release\moc_about_developer.o
+./release\moc_control_properties.o
+./release\moc_movebutton.o
+./release\moc_serial_controler.o
+);

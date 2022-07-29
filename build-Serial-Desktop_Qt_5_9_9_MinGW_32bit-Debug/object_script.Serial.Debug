@@ -1,0 +1,12 @@
+INPUT(
+./debug\about_developer.o
+./debug\control_properties.o
+./debug\main.o
+./debug\movebutton.o
+./debug\serial_controler.o
+./debug\qrc_Serial_qrc.o
+./debug\moc_about_developer.o
+./debug\moc_control_properties.o
+./debug\moc_movebutton.o
+./debug\moc_serial_controler.o
+);

@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/firstQrc">
+        <file>QT_ICON/min.png</file>
+        <file>QT_ICON/tatal.png</file>
+        <file>QT_ICON/turnoff.png</file>
+        <file>QT_ICON/star.ico</file>
+        <file>QT_ICON/stop.ico</file>
+    </qresource>
+</RCC>

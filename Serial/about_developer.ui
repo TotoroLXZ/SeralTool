@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>about_developer</class>
+ <widget class="QWidget" name="about_developer">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>40</y>
+     <width>281</width>
+     <height>191</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 11pt &quot;微软雅黑&quot;;</string>
+   </property>
+   <property name="text">
+    <string>软件由TOTORO个人创作-测试版V2。
+无商业合作，免费提供使用。
+欢迎反馈问题到邮箱：1142206684@qq.com。
+新版本更新可以通过个人网址：zekai123.cn下载。
+技术大佬源码交流可以网站首页留言。
+感谢您的使用！</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
