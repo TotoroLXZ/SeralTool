@@ -26,7 +26,7 @@ public:
     QByteArray BtnDatas;
     /*........给当前控件增加数据命令 .............*/
     void BtnAddDatas(QByteArray btndatas);
-    /*........配置当前按钮的命令.............*/
+    /*........配置当前按钮的命令.......测试ab都改动......*/
     void setBtnDatas(QByteArray btndatas);
     /*........获取当前按钮的命令.............*/
     QByteArray getBtnDatas();
