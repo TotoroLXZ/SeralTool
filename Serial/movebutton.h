@@ -24,6 +24,8 @@ public:
     /*........当前按钮的命令............增加动态命令数据.*/
     QList<QByteArray> BtnDataLists;//动态创建按钮的列表
     QByteArray BtnDatas;
+    /*........给当前控件增加数据命令 .............*/
+    void BtnAddDatas(QByteArray btndatas);
     /*........配置当前按钮的命令.............*/
     void setBtnDatas(QByteArray btndatas);
     /*........获取当前按钮的命令.............*/
