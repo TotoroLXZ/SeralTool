@@ -21,7 +21,7 @@ class MoveButton : public QPushButton
 public:
     explicit MoveButton(QWidget *parent = nullptr);
 
-    /*........当前按钮的命令............增加动态命令数据.*/
+    /*........当前按钮的命令.......  first git push test.....增加动态命令数据.*/ 
     QList<QByteArray> BtnDataLists;//动态创建按钮的列表
     QByteArray BtnDatas;
     /*........配置当前按钮的命令.....  后期要删掉  做动态改增加命令和删除 修改命令........*/
